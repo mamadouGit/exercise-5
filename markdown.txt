@@ -1,1 +1,4 @@
 
+to see the files changed within each commit from git log we use the command git log --stat
+to see the contents of what changed within each file from the git log we use git log --stat
+HEAD allow to pointer  the last commit you made or the last commit that was checked out into your working directory. 
